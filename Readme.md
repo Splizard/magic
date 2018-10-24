@@ -4,8 +4,9 @@ A format for Magic: The Gathering.
 
 ## Rulings
 All players in the format always own all action and effect cards.  
-Effect cards are permanently in play, during or not during a game, they cannot be removed from play.  
-Action cards can be played at any time, during or not during a game.  
+Effect cards are permanently in play they cannot be removed from play.  
+Action cards can be played at any time, they cannot be countered.  
+Thre results of action and effect cards persist after a Magic: The Gathering game is over.
 
 The format adds the following cards:
 
