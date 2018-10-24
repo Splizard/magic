@@ -1,8 +1,13 @@
 # Filthy Casual, a Magic: The Gathering Format
-===========
 
 A format for Magic: The Gathering.
-Adds the following cards:
+
+## Rulings
+All players in the format always own all action and effect cards.  
+Effect cards are permanently in play, during or not during a game, they cannot be removed from play.  
+Action cards can be played at any time, during or not during a game.  
+
+The format adds the following cards:
 
 ![The Law](cards/The_Law.png)
 ![The Gathering](cards/The_Gathering.png)  
