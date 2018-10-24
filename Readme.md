@@ -4,9 +4,9 @@
 A format for Magic: The Gathering.
 Adds the following cards:
 
-![The Law](card/The Law.png)  
-![The Gathering](card/The Gathering.png)  
-![The Sacrifice](card/The Sacrifice.png)  
-![Gift](card/Gift.png)  
-![Favour](card/Favour.png)  
-![Aquire](card/Aquire.png)  
+![The Law](cards/The_Law.png)  
+![The Gathering](cards/The_Gathering.png)  
+![The Sacrifice](cards/The_Sacrifice.png)  
+![Gift](cards/Gift.png)  
+![Favour](cards/Favour.png)  
+![Aquire](cards/Aquire.png)  
