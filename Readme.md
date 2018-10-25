@@ -2,6 +2,9 @@
 
 A format for Magic: The Gathering.
 
+## The Spirit of the rules 
+The format is deigned to encourage trading and casual play among members without players resorting to building predesigned meta decks. Players in good faith must stick to the intention and spirit of these rules.
+
 ## Rulings
 All players in the format always own all action and effect cards.  
 Effect cards are permanently in play they cannot be removed from play.  
